@@ -1,5 +1,5 @@
 <h1 align="center">Yihdra Studio</h1>
-<h3 align="center">Petit studio francophone de game design</h3>
+<h3 align="center">Petit studio francophone de game design et autres activités en tout genre..</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
@@ -30,3 +30,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sentry/362D59" height="30" alt="sentry logo"  />
 </div>
+
+
+<h4 align="center">FiveM - RedM - Minecraft - CryEngine</h4>
